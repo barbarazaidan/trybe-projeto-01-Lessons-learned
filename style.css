@@ -4,6 +4,7 @@ body {
 
 #cabecalho {
     top: 0;
+    left: 0;
     position: fixed;
     background-color: #9e2a2b;
     width: 100%;
@@ -11,16 +12,34 @@ body {
 
 #titulo {
     color: aliceblue;
-    font-size: 20px;
+    font-size: 30px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
 }
 
 #minha_foto {
     width: 400px;
 }
 
+.sobremim {
+    width: 50%;
+    display: inline-block;
+    text-align: center;
+}
+
+.descricao {
+    position:absolute;
+    top: 200px;
+    right: 20px;
+}
+
+#titulo-descricao {
+    font-size: 20px;
+}
+
 article {
-    width: 60%;
+    max-width: 60%;
+    text-align: justify;
 }
 
 #licoes_aprendidas {
