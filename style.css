@@ -6,6 +6,7 @@ body {
     top: 0;
     position: fixed;
     background-color: #9e2a2b;
+    width: 100%;
 }
 
 #titulo {
@@ -13,3 +14,6 @@ body {
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+#minha_foto {
+    width: 400px;
