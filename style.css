@@ -19,6 +19,10 @@ body {
     width: 400px;
 }
 
+article {
+    width: 60%;
+}
+
 #licoes_aprendidas {
 
 }
