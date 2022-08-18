@@ -50,6 +50,18 @@ article {
 
 }
 
+.curso-titulo {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    color: #9e2a2b;
+}
+
+.curso {
+    
+}
+
+
 #rodape {
     bottom: 0;
     position: relative;
