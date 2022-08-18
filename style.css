@@ -23,31 +23,41 @@ body {
 
 #minha_foto {
     width: 400px;
+    height: 500PX;
 }
 
 .sobremim {
-    width: 50%;
-    display: inline-block;
     text-align: center;
+    margin-top: 150PX;
 }
 
-.descricao {
-    position:absolute;
-    top: 200px;
-    right: 20px;
-    line-height: 25px;
-}
-
-#titulo-descricao {
-    font-size: 20px;
+.informacoes{
+    display: inline-block;
+    width: 45%;
 }
 
 article {
-    max-width: 60%;
     text-align: justify;
-    margin-left: 20px;
-    margin-top: 20px;
+    margin-top: 40px;
     line-height: 25px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.descricao {
+    line-height: 25px;
+    margin-left: 60px;
+    position: absolute;
+    margin-top: 40px;
+    z-index: -1;
+
+}
+
+.titulo-descricao {
+    font-size: 25px;
+    margin-top: 22px;
+    margin-bottom: 10px;
+    text-align: center;
 }
 
 #licoes {
