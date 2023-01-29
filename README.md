@@ -51,7 +51,7 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 
 > Teste se a semântica da sua página está aprovada pelo site CodeSniffer.
 
-Requisitos Bônus
+REQUISITOS BÔNUS
 
 12. Adicione uma tabela à página
 
