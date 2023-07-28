@@ -17,6 +17,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 </p>
 </details>
 
+---
+
 **2. Adicione uma barra superior com um título**
 
 <details><summary>Detalhes</summary>
@@ -26,6 +28,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 
 </p>
 </details>
+
+---
 
 **3. Adicione uma foto sua à página**
 
@@ -37,6 +41,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 </p>
 </details>
 
+---
+
 **4. Adicione uma lista de lições aprendidas à página**
 
 <details><summary>Detalhes</summary>
@@ -46,6 +52,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 
 </p>
 </details>
+
+---
 
 **5. Crie uma lista de lições que ainda deseja aprender para a página**
 
@@ -57,6 +65,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 </p>
 </details>
 
+---
+
 **6. Adicione um rodapé para a página**
 
 <details><summary>Detalhes</summary>
@@ -66,6 +76,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 
 </p>
 </details>
+
+---
 
 **7. Insira pelo menos um link externo na página**
 
@@ -77,6 +89,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 </p>
 </details>
 
+---
+
 **8. Crie um artigo sobre o seu aprendizado**
 
 <details><summary>Detalhes</summary>
@@ -86,6 +100,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 
 </p>
 </details>
+
+---
 
 **9. Crie uma tag html aside que contenha uma breve descrição sobre você**
 
@@ -97,6 +113,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 </p>
 </details>
 
+---
+
 **10. Aplique elementos HTML de acordo com o sentido e propósito de cada um deles**
 
 <details><summary>Detalhes</summary>
@@ -107,6 +125,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 </p>
 </details>
 
+---
+
 **11. Teste a semântica da sua página usando o site CodeSniffer**
 
 <details><summary>Detalhes</summary>
@@ -116,6 +136,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 
 </p>
 </details>
+
+---
 
 REQUISITOS BÔNUS
 
@@ -129,6 +151,8 @@ REQUISITOS BÔNUS
 </p>
 </details>
 
+---
+
 **13. Utilize o Box model**
 
 <details><summary>Detalhes</summary>
@@ -138,6 +162,8 @@ REQUISITOS BÔNUS
 
 </p>
 </details>
+
+---
 
 **14. Altere atributos relacionados às fontes**
 
@@ -149,6 +175,8 @@ REQUISITOS BÔNUS
 </p>
 </details>
 
+---
+
 **15. Posicione a tag article e a tag aside uma ao lado do outra**
 
 <details><summary>Detalhes</summary>
@@ -158,6 +186,8 @@ REQUISITOS BÔNUS
 
 </p>
 </details>
+
+---
 
 ## Sobre o curso da Trybe
 O programa total de estudo conta com mais de 1.500 horas de aulas presenciais e online,divididas ao longo de 12 meses. O conteúdo aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
